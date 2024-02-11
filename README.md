@@ -1,16 +1,29 @@
-### Hi there 👋
+<html lang="en">  
+  <head align="center">
+    <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=ff75d0&descAlign=50&descAlignY=50&reversal=false&section=header"/>   
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=100&size=35&pause=1000&color=FF75D0&center=true&random=false&width=550&lines=Hi+%F0%9F%91%8B%F0%9F%8F%BB;Welcome+to+my+GitHub!" alt="Typing SVG" /></a>
+  </head>  
+  <body>        
+    <div> 
+      <h4>Social media:</h4>  
+      <a href= "mailto:gi97marcondes@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+      <a href= "https://www.linkedin.com/in/marcondesgio/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+      <a href= "https://www.instagram.com/marcondesgio/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+    </div>
+    <div align="center"><br>
+      <img heitght="180cm" align="center" src="https://github-readme-stats.vercel.app/api?username=marcondesgio&show_icons=true&theme=cobalt&hide_border=true&bg_color=282a36"/>
+      <img heitght="180cm" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcondesgio&layout=compact&theme=cobalt&hide_border=true&bg_color=282a36"/><br><br>
+      <img src="https://github-profile-trophy.vercel.app/?username=marcondesgio&theme=dracula&row=2&column=3&rank=-U&no-frame=true">
+    </div>
+    <div align="center">
+      <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=ff75d0&descAlign=50&descAlignY=50&reversal=false&section=footer"/>
+    </div>
+  </body>
+</html>
 
-<!--
-**marcondesgio/marcondesgio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+
