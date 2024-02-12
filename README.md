@@ -1,9 +1,9 @@
-<html lang="en">  
-  <head align="center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=ff75d0&descAlign=50&descAlignY=50&reversal=false&section=header"/>   
-    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=100&size=35&pause=1000&color=FF75D0&center=true&random=false&width=800&lines=Hi+%F0%9F%91%8B%F0%9F%8F%BB;Welcome+to+my+GitHub!" alt="Typing SVG" />
-  </head>  
-  <body>        
+<html lang="en"> 
+  <body> 
+    <divalign="center">
+      <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=ff75d0&descAlign=50&descAlignY=50&reversal=false&section=header"/>   
+      <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=100&size=35&pause=1000&color=FF75D0&center=true&random=false&width=800&lines=Hi+%F0%9F%91%8B%F0%9F%8F%BB;Welcome+to+my+GitHub!" alt="Typing SVG" />
+    </div>
     <div> 
       <h4>Social media:</h4>  
       <a href= "mailto:gi97marcondes@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
