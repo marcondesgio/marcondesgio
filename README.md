@@ -11,8 +11,8 @@
       <a href= "https://www.instagram.com/marcondesgio/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
     </div>
     <div align="center"><br>
-      <img heitght="180cm" align="center" src="https://github-readme-stats.vercel.app/api?username=marcondesgio&show_icons=true&theme=cobalt&hide_border=true&bg_color=282a36"/>
-      <img heitght="180cm" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcondesgio&layout=compact&theme=cobalt&hide_border=true&bg_color=282a36"/><br><br>
+      <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=marcondesgio&show_icons=true&theme=cobalt&hide_border=true&bg_color=282a36"/>
+      <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcondesgio&layout=compact&theme=cobalt&hide_border=true&bg_color=282a36"/><br><br>
       <img src="https://github-profile-trophy.vercel.app/?username=marcondesgio&theme=dracula&row=2&column=3&rank=-U&no-frame=true">      
     </div> 
     <div align="center">
