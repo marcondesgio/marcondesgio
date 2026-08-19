@@ -36,7 +36,7 @@ And, of course...
 
 ### 🌷 duni
 
-**DUNI** is one of my current personal projects — a space where I'm combining my passion for **technology, design and product development**.
+**duni** is one of my current personal projects — a space where I'm combining my passion for **technology, design and product development**.
 
 I'm currently exploring:
 
