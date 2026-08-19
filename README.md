@@ -97,39 +97,15 @@ English                 ████████████████░░�
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=marcondesgio&show_icons=true&theme=rose_pine&include_all_commits=true&count_private=true&hide_border=true"/>
+![GitHub Profile Views](https://komarev.com/ghpvc/?username=marcondesgio\&color=DB7BAA\&style=for-the-badge\&label=PROFILE+VIEWS)
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcondesgio&layout=compact&langs_count=8&theme=rose_pine&hide_border=true"/>
+<br><br>
 
-</div>
+<img src="https://github-readme-stats.vercel.app/api?username=marcondesgio&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" height="180"/>
 
-<br>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=marcondesgio&theme=rose_pine&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcondesgio&layout=compact&hide_border=true&langs_count=8" height="180"/>
 
 </div>
-
----
-
-## 🐾 A little bit of me
-
-```text
-        /\_/\\
-       ( o.o )
-        > ^ <
-
-   "Code, coffee & cats." ♡
-```
-
-When I'm not coding, you'll probably find me:
-
-🌸 exploring creative projects
-🎨 playing with design ideas
-📚 learning something new
-🐱 spending time with cats
-☕ drinking way too much coffee
 
 ---
 
