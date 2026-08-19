@@ -34,7 +34,7 @@ And, of course...
 
 ## 🎀 Currently building
 
-### 🌷 DUNI
+### 🌷 duni
 
 **DUNI** is one of my current personal projects — a space where I'm combining my passion for **technology, design and product development**.
 
@@ -90,22 +90,6 @@ English                 ████████████████░░�
 ```
 
 ✨ *There is always another rabbit hole to explore.*
-
----
-
-## 📊 My GitHub
-
-<div align="center">
-
-![GitHub Profile Views](https://komarev.com/ghpvc/?username=marcondesgio\&color=DB7BAA\&style=for-the-badge\&label=PROFILE+VIEWS)
-
-<br><br>
-
-<img src="https://github-readme-stats.vercel.app/api?username=marcondesgio&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" height="180"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcondesgio&layout=compact&hide_border=true&langs_count=8" height="180"/>
-
-</div>
 
 ---
 
