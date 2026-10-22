@@ -99,7 +99,7 @@ If you'd like to talk about **technology, Flutter, frontend development, creativ
 
 <div align="center">
 
-<a href="mailto:gi97marcondes@gmail.com">
+<a href="mailto:giomarcondesdev@gmail.com">
   <img src="https://img.shields.io/badge/Email-DB7BAA?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
